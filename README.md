@@ -19,3 +19,9 @@ Code Review: SonarQube
 Cloud: AWS
 
 Banco de dados: PostgreSQL
+
+# Repositórios
+
+Front-End: https://github.com/evelynbittelbrunn/tags-front
+
+Back-End: https://github.com/evelynbittelbrunn/tags-back
