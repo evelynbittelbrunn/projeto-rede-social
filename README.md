@@ -6,7 +6,7 @@ O projeto consiste no desenvolvimento de uma nova rede social, chamada Tags, com
 
 # Autora
 
-@evelynbittelbrunn
+[@evelynbittelbrunn](@evelynbittelbrunn)
 
 # Documentação
 
