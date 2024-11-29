@@ -13,39 +13,39 @@ Visualizar documentação: https://catolicasc-my.sharepoint.com/:w:/g/personal/e
 # Front-end
 
 - **React**: Biblioteca JavaScript para criar interfaces de usuário e componentes reutilizáveis.
-- ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) TypeScript: Superset do JavaScript que adiciona tipagem estática à linguagem.
-- Ant Design: Biblioteca de componentes.
-- Axios: Biblioteca para realizar requisições HTTP.
-- Jest: Framework de testes em JavaScript.
-- Date-fns: Biblioteca para manipulação de datas.
-- Styled-components: Biblioteca para estilização em React que permite usar CSS dentro de componentes.
-- CSS: Linguagem de estilo.
+- **TypeScript**: Superset do JavaScript que adiciona tipagem estática à linguagem.
+- **Ant Design**: Biblioteca de componentes.
+- **Axios**: Biblioteca para realizar requisições HTTP.
+- **Jest**: Framework de testes em JavaScript.
+- **Date-fns**: Biblioteca para manipulação de datas.
+- **Styled-components**: Biblioteca para estilização em React que permite usar CSS dentro de componentes.
+- **CSS**: Linguagem de estilo.
 
 # Back-end
 
-- Spring Boot: Framework para construir aplicações Java e gerenciar dependências.
-- Linguagem de programação orientada a objetos utilizada para desenvolver diversos tipos de aplicações.
-- Hibernate: Ferramenta para mapear objetos Java para tabelas de banco de dados.
-- Lombok: Biblioteca que automatiza a criação de código como getters, setters e construtores.
-- JUnit: Ferramenta para realizar testes automatizados em Java.
-- Mockito: Biblioteca para criar objetos simulados em testes.
-- Swagger: Ferramenta para gerar documentação de APIs.
+- **Spring Boot**: Framework para construir aplicações Java e gerenciar dependências.
+- **Java**: Linguagem de programação orientada a objetos utilizada para desenvolver diversos tipos de aplicações.
+- **Hibernate**: Ferramenta para mapear objetos Java para tabelas de banco de dados.
+- **Lombok**: Biblioteca que automatiza a criação de código como getters, setters e construtores.
+- **JUnit**: Ferramenta para realizar testes automatizados em Java.
+- **Mockito**: Biblioteca para criar objetos simulados em testes.
+- **Swagger**: Ferramenta para gerar documentação de APIs.
 
 # Banco de dados
 
-- PostgreSQL
+- **PostgreSQL**
 
 # Cloud
 
-- Amazon Web Services (AWS)
+- **Amazon Web Services (AWS)**
 
 # Ferramentas de desenvolvimento
 
-- Code Review: SonarCloud
-- Monitoramento: Grafana e Prometheus
-- Continuous Deployment (CD): Github Actions
-- Continuous Integration (CI): SonarCloud Quality Gate
-- Ferramentas de desenvolvimento: Eclipse IDE e Visual Studio Code
+- **Code Review**: SonarCloud
+- **Monitoramento**: Grafana e Prometheus
+- **Continuous Deployment (CD)**: Github Actions
+- **Continuous Integration (CI)**: SonarCloud Quality Gate
+- **Ferramentas de desenvolvimento**: Eclipse IDE e Visual Studio Code
 
 # Repositórios
 
