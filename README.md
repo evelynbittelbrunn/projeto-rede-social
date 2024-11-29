@@ -14,7 +14,7 @@ Visualizar documentação: https://catolicasc-my.sharepoint.com/:w:/g/personal/e
 
 # Tecnologias utilizadas
 
-# Front-end
+## Front-end
 
 - **React**: Biblioteca JavaScript para criar interfaces de usuário e componentes reutilizáveis.
 - **TypeScript**: Superset do JavaScript que adiciona tipagem estática à linguagem.
@@ -25,7 +25,7 @@ Visualizar documentação: https://catolicasc-my.sharepoint.com/:w:/g/personal/e
 - **Styled-components**: Biblioteca para estilização em React que permite usar CSS dentro de componentes.
 - **CSS**: Linguagem de estilo.
 
-# Back-end
+## Back-end
 
 - **Spring Boot**: Framework para construir aplicações Java e gerenciar dependências.
 - **Java**: Linguagem de programação orientada a objetos utilizada para desenvolver diversos tipos de aplicações.
@@ -35,15 +35,15 @@ Visualizar documentação: https://catolicasc-my.sharepoint.com/:w:/g/personal/e
 - **Mockito**: Biblioteca para criar objetos simulados em testes.
 - **Swagger**: Ferramenta para gerar documentação de APIs.
 
-# Banco de dados
+## Banco de dados
 
 - **PostgreSQL**
 
-# Cloud
+## Cloud
 
 - **Amazon Web Services (AWS)**
 
-# Ferramentas de desenvolvimento
+## Ferramentas de desenvolvimento
 
 - **Code Review**: SonarCloud
 - **Monitoramento**: Grafana e Prometheus
