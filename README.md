@@ -1,4 +1,4 @@
-# Projeto de rede social: Tags
+# Projeto de rede social: Tags 🏷️
 
 Bem vindo ao Tags, uma nova forma de descobrir, conectar e compartilhar o que realmente importa para você! 🌟
 
