@@ -59,9 +59,9 @@ Visualizar documentação: https://catolicasc-my.sharepoint.com/:w:/g/personal/e
 
 ## Repositórios
 
-Front-End: https://github.com/evelynbittelbrunn/tags-front
+- Front-End: https://github.com/evelynbittelbrunn/tags-front
 
-Back-End: https://github.com/evelynbittelbrunn/tags-back
+- Back-End: https://github.com/evelynbittelbrunn/tags-back
 
 **Observação**: Confira o README dos repositórios acima para as instruções de configuração de cada ambiente.
 
