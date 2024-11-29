@@ -4,6 +4,10 @@ Bem vindo ao Tags, uma nova forma de descobrir, conectar e compartilhar o que re
 
 O projeto consiste no desenvolvimento de uma nova rede social, chamada Tags, com ênfase na personalização (escolha) do conteúdo do feed e na facilitação de conexões entre usuários com interesses similares. Esta proposta surge em um cenário onde a demanda por experiências de navegação mais relevantes e gratificantes é crescente, e a necessidade de plataformas que promovam interações significativas é cada vez mais evidente. 
 
+# Autora
+
+@evelynbittelbrunn
+
 # Documentação
 
 Visualizar documentação: https://catolicasc-my.sharepoint.com/:w:/g/personal/evelyn_bittelbrunn_catolicasc_edu_br/EbbBevlJHYNAjZyveDPXg5wBVSwFsMNiPA97uzkGjKpxjw?rtime=n7gpFNfD3Eg
@@ -47,8 +51,20 @@ Visualizar documentação: https://catolicasc-my.sharepoint.com/:w:/g/personal/e
 - **Continuous Integration (CI)**: SonarCloud Quality Gate
 - **Ferramentas de desenvolvimento**: Eclipse IDE e Visual Studio Code
 
-# Repositórios
+# Links importantes
+
+## Aplicação
+
+[Tags](https://tagsocial.site/login)
+
+## Repositórios
 
 Front-End: https://github.com/evelynbittelbrunn/tags-front
 
 Back-End: https://github.com/evelynbittelbrunn/tags-back
+
+## Swagger
+
+## Monitoramento
+
+## Outras ferramentas
