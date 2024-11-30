@@ -14,7 +14,7 @@ O nome Tags (do inglês, etiquetas) reflete a essência da plataforma, que organ
 
 - Visualizar documentação (RFC): https://catolicasc-my.sharepoint.com/:w:/g/personal/evelyn_bittelbrunn_catolicasc_edu_br/EbbBevlJHYNAjZyveDPXg5wBVSwFsMNiPA97uzkGjKpxjw?rtime=n7gpFNfD3Eg
   
-- Documentação da API - [Swagger - Clique aqui](https://tagsocial.site/api/swagger-ui/index.html#/)
+- Documentação da API - [Swagger - Clique aqui](https://tagsocial.site/api/swagger-ui/index.html#/).
   
 - Wiki do Projeto - [Wiki - Clique aqui](https://github.com/evelynbittelbrunn/projeto-rede-social/wiki).
 
@@ -61,7 +61,7 @@ O nome Tags (do inglês, etiquetas) reflete a essência da plataforma, que organ
 
 ## Aplicação
 
-[Tags](https://tagsocial.site/login)
+[Tags - Clique aqui](https://tagsocial.site/login)
 
 ## Repositórios
 
