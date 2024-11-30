@@ -11,8 +11,10 @@ O projeto consiste no desenvolvimento de uma nova rede social, chamada Tags, com
 # Documentação
 
 - Visualizar documentação (RFC): https://catolicasc-my.sharepoint.com/:w:/g/personal/evelyn_bittelbrunn_catolicasc_edu_br/EbbBevlJHYNAjZyveDPXg5wBVSwFsMNiPA97uzkGjKpxjw?rtime=n7gpFNfD3Eg
-- [Swagger](https://tagsocial.site/api/swagger-ui/index.html#/) - Documentação da API.
-- Wiki - Wiki do Projeto.
+  
+- Documentação da API - [Swagger](https://tagsocial.site/api/swagger-ui/index.html#/)
+  
+- Wiki do Projeto - Wiki.
 
 # Tecnologias utilizadas
 
@@ -74,3 +76,5 @@ O projeto consiste no desenvolvimento de uma nova rede social, chamada Tags, com
 - [SonarCloud](https://sonarcloud.io/projects) (Back-End e Front-End) - Plataforma de análise de código que ajuda a identificar e corrigir problemas de qualidade e segurança em projetos.
 
 ## Outras ferramentas
+
+- Figma: [Clique aqui](https://www.figma.com/design/0EtEV588jDLTrkymc03XX3/Untitled?node-id=0-1&node-type=canvas&t=vWVLJHygcFZmeh3K-0)
