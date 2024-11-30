@@ -71,7 +71,7 @@ O projeto consiste no desenvolvimento de uma nova rede social, chamada Tags, com
 
 ## Monitoramento
 
-- Grafana - Painel de visualização de dados e métricas. (usuário: admin, senha: admin)
+- [Grafana](http://34.236.149.39:3000/login) - Painel de visualização de dados e métricas. (usuário: admin, senha: tagsite)
   
 - [SonarCloud](https://sonarcloud.io/projects) (Back-End e Front-End) - Plataforma de análise de código que ajuda a identificar e corrigir problemas de qualidade e segurança em projetos.
 
