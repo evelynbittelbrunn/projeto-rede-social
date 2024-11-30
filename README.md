@@ -10,7 +10,9 @@ O projeto consiste no desenvolvimento de uma nova rede social, chamada Tags, com
 
 # Documentação
 
-Visualizar documentação: https://catolicasc-my.sharepoint.com/:w:/g/personal/evelyn_bittelbrunn_catolicasc_edu_br/EbbBevlJHYNAjZyveDPXg5wBVSwFsMNiPA97uzkGjKpxjw?rtime=n7gpFNfD3Eg
+- Visualizar documentação (RFC): https://catolicasc-my.sharepoint.com/:w:/g/personal/evelyn_bittelbrunn_catolicasc_edu_br/EbbBevlJHYNAjZyveDPXg5wBVSwFsMNiPA97uzkGjKpxjw?rtime=n7gpFNfD3Eg
+- [Swagger](https://tagsocial.site/api/swagger-ui/index.html#/) - Documentação da API.
+- Wiki - Wiki do Projeto.
 
 # Tecnologias utilizadas
 
@@ -64,8 +66,6 @@ Visualizar documentação: https://catolicasc-my.sharepoint.com/:w:/g/personal/e
 - Back-End: https://github.com/evelynbittelbrunn/tags-back
 
 **Observação**: Confira o README dos repositórios acima para as instruções de configuração de cada ambiente.
-
-## Swagger
 
 ## Monitoramento
 
