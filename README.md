@@ -4,6 +4,8 @@ Bem vindo ao Tags, uma nova forma de descobrir, conectar e compartilhar o que re
 
 O projeto consiste no desenvolvimento de uma nova rede social, chamada Tags, com ênfase na personalização (escolha) do conteúdo do feed e na facilitação de conexões entre usuários com interesses similares. Esta proposta surge em um cenário onde a demanda por experiências de navegação mais relevantes e gratificantes é crescente, e a necessidade de plataformas que promovam interações significativas é cada vez mais evidente. 
 
+O nome Tags (do inglês, etiquetas) reflete a essência da plataforma, que organiza e categoriza o conteúdo. Assim como as etiquetas ajudam a identificar e organizar itens, a plataforma usa categorias para agrupar postagens e facilitar a busca por temas específicos, garantindo uma experiência focada e personalizada para cada usuário.
+
 # Autora
 
 [@evelynbittelbrunn](https://github.com/evelynbittelbrunn/)
