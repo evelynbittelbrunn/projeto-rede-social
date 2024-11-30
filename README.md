@@ -80,3 +80,4 @@ O nome Tags (do inglês, etiquetas) reflete a essência da plataforma, que organ
 ## Outras ferramentas
 
 - Figma: [Clique aqui](https://www.figma.com/design/0EtEV588jDLTrkymc03XX3/Untitled?node-id=0-1&node-type=canvas&t=vWVLJHygcFZmeh3K-0)
+- Trello: [Clique aqui](https://trello.com/invite/b/66edac560828e6acbafb4691/ATTId9a7871ce5effe154d5798a59708b4610A1F6897/tags-rede-social)
