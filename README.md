@@ -69,4 +69,8 @@ Visualizar documentação: https://catolicasc-my.sharepoint.com/:w:/g/personal/e
 
 ## Monitoramento
 
+- Grafana - Painel de visualização de dados e métricas. (usuário: admin, senha: admin)
+  
+- [SonarCloud](https://sonarcloud.io/projects) (Back-End e Front-End) - Plataforma de análise de código que ajuda a identificar e corrigir problemas de qualidade e segurança em projetos.
+
 ## Outras ferramentas
